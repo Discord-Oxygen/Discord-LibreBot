@@ -2,6 +2,11 @@
 An open-source Discord Bot (concept)
 
 # Features
+## easy setup
+THe Bot works perfectly on defualt settings
+It has an extremly simple to use GUI and you just need to invite the Bot and it sets up everythig automatically
+But you can configure and twerk everything if you want to
+
 ## Moderation
 <li>Infractions System</li>
 <li>Automatic Actions based on Infractions (e.g. 3 Infractions / one day => Tempmute 1 week)</li>
@@ -48,9 +53,11 @@ An open-source Discord Bot (concept)
 <li>Bad Links (e.g. IP loggers, links that are flagged by safebrowsing, custom white and black lists, etc.)</li>
 <li>Bad words</li>
 <li>NSFW attachments in non-NSFW channel</li>
+<li>x ghost pings (messages containing pings) in y time or y messages</li>
 
 ### Automated Actions - Actions:<br>
 (can be combined)<br>
+<li>Undo message deletion to avoid ghost pings</li>
 <li>Reply to message in Channel</li>
 <li>Send message in Channel</li>
 <li>DM Author of message</li>
@@ -65,4 +72,4 @@ An open-source Discord Bot (concept)
 <li>post message to channel</li>
 <li>DM The Owner</li>
 
-
+## Advanced Raid and alt protetcion
