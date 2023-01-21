@@ -1,3 +1,8 @@
+# EOL
+This project has been abandoned.<br>
+If you're looking for alternatives:
+Honestly just ditch Discord and switch to Matrix, you're definetly going to have a much better time there.
+
 # Discord-LibreBot
 An open-source Discord Bot (concept)
 
